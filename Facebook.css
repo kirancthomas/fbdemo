@@ -1,0 +1,117 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5998
+    
+}
+body{
+    margin: 0;
+}
+.logo{
+
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+   
+}
+.logo-text{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: inherit;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.login-controls{
+    color: #fff;
+    font-size: 17px;
+    margin-left: 144px;
+    
+    
+}
+.forgotpassword{
+    color: #bdb9b9;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+.loginbutton{
+    color: #fff;
+    background-color: #4267b2;
+    border-color: #3b5998;
+    margin-left: 5px;
+    cursor: pointer;
+    
+}
+.loginbutton:hover{
+    background-color: #7096e6;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.right-section{
+    width: 35%;
+    float: left;
+    margin-left: 60px;
+}
+.main-body{
+    background-color: rgb(245 244 255);
+    width:100%;
+    height: 600px;
+    
+
+}
+.para{
+    font-size: 30px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.image{
+    width: 678px;
+}
+.signuptb{
+    margin-left: 10px;
+    
+}
+.enterEmail{
+    width: 350px;
+    margin-top: 10px;
+    height: 30px;
+}
+.signupform{
+    padding: 10px;
+
+}
+.sub{
+    padding: 10px;
+    margin-left: 14px;
+    width: 150px;
+    background: linear-gradient(rgb(84, 253, 107), rgb(10, 105, 18));  
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+    border-color: #fff;
+    
+}
+.sub:hover{
+    background-color: #b6eeaf;
+}
+.enterName{
+    height: 30px;
+}
+.bthGen{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
